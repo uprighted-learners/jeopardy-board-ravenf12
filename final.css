@@ -1,0 +1,13 @@
+.final {
+    text-align: center;
+    color: aqua;
+    padding: 20px 40px;
+    background-color: blueviolet;
+    font-family: fantasy;
+    outline-style: groove;
+    outline-width: 10px; 
+}
+
+.body {
+    background-color: darkblue;
+}

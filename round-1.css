@@ -1,0 +1,81 @@
+.one {
+    text-align: center;
+    color: aqua;
+    padding: 20px 40px;
+    background-color: blueviolet;
+    font-family: fantasy;
+    outline-style: groove;
+    outline-width: 10px; 
+}
+
+.body {
+    background-color: darkblue;
+}
+
+.box1 {
+    color: aqua;
+    display: grid;
+    background-color: blueviolet;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px;
+    justify-content: space-between;
+    outline-style: groove;
+    outline-width: 5px;
+    font-size: large;
+}
+
+.box2 {
+    color: aqua;
+    display: grid;
+    background-color: blueviolet;
+    grid-template-columns: 100px 100px 100px 100px 100px 100px;
+    justify-content: space-between;
+    outline-style: groove;
+    outline-width: 5px;
+    font-size: large;
+}
+
+.player1{
+    float: left;
+    margin-top: 30px;
+    color: aqua;
+    background-color: blueviolet;
+    padding: 10px 20px;
+    outline-style: groove;
+    outline-width: 6px;
+    font-family: fantasy;
+}
+
+.player2{
+    float: right;
+    margin-top: 15px;
+    color: aqua;
+    background-color: blueviolet;
+    padding: 10px 20px;
+    outline-style: groove;
+    outline-width: 6px;
+    font-family: fantasy;
+}
+
+.next{
+    color: aqua;
+    float: right;
+    margin-top: 200px;
+    background-color: blueviolet;
+    padding: 10px 20px;
+    outline-style: groove;
+    outline-width: 6px;
+    font-family: fantasy;
+}
+
+.cpn {
+    text-align: center;
+    color: red;
+    margin-top: 100px;
+    font-size: small;
+}
+
+.cpn2 {
+    text-align: center;
+    color: red;
+    font-size: small;
+}
