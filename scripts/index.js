@@ -16,3 +16,4 @@ console.log(placeholderQuestions[0]);
     console.log(Salt);
   }
 
+console.log(salt)
