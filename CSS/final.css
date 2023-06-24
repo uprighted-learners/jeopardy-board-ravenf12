@@ -30,3 +30,26 @@
 color: aqua;
 position: relative; left: 525px; top: 100px;
 }
+/* Player styling */
+.player1{
+    float: left;
+    margin-top: 30px;
+    color: aqua;
+    background-color: blueviolet;
+    padding: 10px 20px;
+    outline-style: groove;
+    outline-width: 6px;
+    font-family: fantasy;
+}
+
+/* Player2 styling */
+.player2{
+    float: right;
+    margin-top: 15px;
+    color: aqua;
+    background-color: blueviolet;
+    padding: 10px 20px;
+    outline-style: groove;
+    outline-width: 6px;
+    font-family: fantasy;
+}
