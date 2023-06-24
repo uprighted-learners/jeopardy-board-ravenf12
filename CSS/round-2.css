@@ -1,3 +1,4 @@
+/* Styling for the title text */
 .two {
     text-align: center;
     color: aqua;
@@ -8,10 +9,12 @@
     outline-width: 10px; 
 }
 
+/* The whole pages background */
 .body {
     background-color: darkblue;
 }
 
+/* styling for the categories at the top */
 .box1 {
     color: aqua;
     display: grid;
@@ -23,6 +26,7 @@
     font-size: large;
 }
 
+/* Styling for the point boxes */
 .box2 {
     color: aqua;
     display: grid;
@@ -34,6 +38,7 @@
     font-size: large;
 }
 
+/* Player styling */
 .player1{
     float: left;
     margin-top: 30px;
@@ -45,6 +50,7 @@
     font-family: fantasy;
 }
 
+/* Player2 styling */
 .player2{
     float: right;
     margin-top: 15px;
@@ -56,6 +62,7 @@
     font-family: fantasy;
 }
 
+/* Styling our button that takes us to the next round */
 .next{
     color: aqua;
     float: right;
@@ -67,6 +74,7 @@
     font-family: fantasy;
 }
 
+/* Here down is styling for the copyright notice */
 .cpn {
     text-align: center;
     color: red;

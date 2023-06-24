@@ -1,0 +1,32 @@
+/* Final's starting text */
+.final {
+    text-align: center;
+    color: aqua;
+    padding: 20px 40px;
+    background-color: blueviolet;
+    font-family: fantasy;
+    outline-style: groove;
+    outline-width: 10px; 
+}
+
+/* Background for the entire thing */
+.body {
+    background-color: darkblue;
+}
+
+/* The category */
+.box1 {
+    color: aqua;
+    display: grid;
+    background-color: blueviolet;
+    text-align: center;
+    outline-style: groove;
+    outline-width: 5px;
+    font-size: large;
+}
+
+/* Location of the text-box */
+.text {
+color: aqua;
+position: relative; left: 525px; top: 100px;
+}
